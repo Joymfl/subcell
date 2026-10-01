@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+freetype-rs = "0.38.0"
 gl = "0.14.0"
 glfw = "0.63.0"
